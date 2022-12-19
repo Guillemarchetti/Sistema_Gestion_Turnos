@@ -1,0 +1,87 @@
+<head>
+    <title>Clínica Odontológica</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"> -->
+    <link href="https://getbootstrap.com/docs/5.2/assets/css/docs.css" rel="stylesheet">   
+    <link href="style/loginUser.css" rel="stylesheet">
+    <link href="style/table.css" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=Dancing+Script&display=swap" rel="stylesheet">
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.17.1/moment.min.js"></script>
+    <script src="https://kit.fontawesome.com/3f19147b0a.js" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="/js/pacientes.js"></script>
+</head>
+
+<body>
+
+    <nav class="navbar">
+        <div class="container-fluid"> 
+            <div class="logo">
+                <img src="../img/logo.png" 
+                alt="Logo" width="90" height="84" class="d-inline-block align-text-top">
+                <p class="cursiva">Smile</p> 
+                <p>Design</p>
+            </div>
+            <div>
+                <a class="logout" href="indexadmin.html">Inicio</a>
+                <a class="logout" href="/login">Cerrar Sesión</a>
+            </div>   
+        </div>
+    </nav>
+
+    <main class="container-login container-table">
+
+        <form class="formularioPacientes" autocomplete="off">
+            <div class="form-row">
+                <div class="form-group col-md-4">
+                    <label for="inputName">Nombre</label>
+                    <input type="text" class="form-control" id="inputName" placeholder="Nombre">
+                </div>
+                <div class="form-group col-md-4">
+                    <label for="inputApellido">Apellido</label>
+                    <input type="text" class="form-control" id="inputApellido" placeholder="Apellido">
+                </div>
+                <div class="form-group col-md-4">
+                    <label for="inputDni">DNI</label>
+                    <input type="text" class="form-control" id="inputDni" placeholder="DNI">
+                </div>
+                <div class="form-group col-md-4">
+                    <label for="inputFecha">Fecha Alta</label>
+                    <input type="date" class="form-control" id="inputFecha" placeholder="Fecha Alta">
+                </div>
+                <div class="form-group col-md-4">
+                    <label for="inputDomicilio">Domicilio</label>
+                    <input type="text" class="form-control" id="inputDomicilio" placeholder="Domicilio">
+                </div>
+                <div class="form_action--button2">
+                    <button type="submit" class="btn btn-primary confirmar">Confirmar</button>
+                </div>
+            </div>
+        </form>
+       
+        <table id="tablaPacientes" class="table">
+            <thead class="thead">
+              <tr>
+                <th scope="col">Nombre</th>
+                <th scope="col">Apellido</th>
+                <th scope="col">DNI</th>
+                <th scope="col">Fecha Alta</th>                
+                <th scope="col">Domicilio</th>
+                <th scope="col">Acción</th>
+              </tr>
+            </thead>
+            <tbody id="tablaPacientesBody">
+               
+            </tbody>
+          </table>
+
+    </main>
+
+    <footer class="footer">
+        <p>Todos los derechos reservados</p>
+    </footer>
+
+
+</body>

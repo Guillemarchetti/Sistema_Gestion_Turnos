@@ -1,0 +1,142 @@
+*{
+    font-family: 'Cinzel', serif;
+    margin: 0;
+}
+
+.navbar {
+    background-color: #dff7e9;    
+}
+
+.logo{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;     
+    font-size: 26px;
+}
+
+.logo p{
+    margin:0;    
+}
+
+.cursiva {
+    padding-left: 5px;
+    font-family: 'Dancing Script';
+    font-size: 37px;       
+}
+
+.dropdown{
+    margin-right: 20px;
+    
+}
+
+.container-fondo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:flex-start;   
+    width:95vw;       
+}
+
+.imagen-fondo {   
+    width: 55%;   
+   height: 100%;
+       
+}
+
+.texto-fondo{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: 95%;
+    margin-left: 20px;
+    
+}
+
+.titulo-fondo {     
+   width: 85%;
+    font-size: 40px;
+    text-align: left;       
+    margin-bottom: 40px;
+}
+
+.texto-opciones{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width:90%;
+    margin-left:30px
+}
+
+
+.lista-inicio{
+    display: flex;
+    list-style: none;
+    flex-direction: column;
+    align-items: center;
+}
+
+.lista-inicio li {
+    background-color: rgb(41, 205, 189);
+    padding:5px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    font-size: 20px; 
+}
+
+a:link, a:visited,  a:hover, a:active{
+    padding: 4px 25px;
+    background: rgba(54, 54, 54, 0.804);
+    border: 1px solid rgba(54, 54, 54, 0.904);
+    color: #fff;
+    border-radius: 4px;
+    text-decoration:none;
+}
+
+
+a:active{
+    padding: 4px 25px;
+    background: rgba(20, 20, 20, 0.95);
+    border: 1px solid rgba(154, 150, 150, 0.804);
+    color: #fff;
+    border-radius: 4px;
+    text-decoration:none;
+}
+
+h5{
+    margin-bottom: 45px;
+}
+
+
+.footer{
+    background-color: #dff7e9;
+    height: 48px; 
+    display: flex;  
+    flex-direction: column; 
+    text-align: center;  
+    justify-content: center; 
+   
+}
+
+.footer p {
+    margin: 0;
+}
+
+/* .cont-logout{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-start;
+    width:100%;
+    margin-bottom: 30px;
+} */
+
+
+
+
+
+
+
+

@@ -1,0 +1,165 @@
+[2022-12-01 15:32:13] [ INFO ] [TurnoServiceImpl:54] El turno ha sido guardado en la base de datos
+[2022-12-01 18:42:22] [ INFO ] [TurnoServiceImpl:54] El turno con id1 ha sido guardado en la base de datos
+[2022-12-01 19:21:23] [ INFO ] [TurnoServiceImpl:54] El turno con id2 ha sido guardado en la base de datos
+[2022-12-01 21:00:59] [ INFO ] [TurnoServiceImpl:54] El turno con id3 ha sido guardado en la base de datos
+[2022-12-01 21:17:39] [ INFO ] [TurnoServiceImpl:54] El turno con id4 ha sido guardado en la base de datos
+[2022-12-01 21:19:35] [ INFO ] [TurnoServiceImpl:90] El turno con id 4 ha sido eliminado de la base de datos
+[2022-12-01 21:19:38] [ INFO ] [TurnoServiceImpl:90] El turno con id 3 ha sido eliminado de la base de datos
+[2022-12-01 21:23:22] [ INFO ] [TurnoServiceImpl:54] El turno con id5 ha sido guardado en la base de datos
+[2022-12-01 22:19:50] [ INFO ] [TurnoServiceImpl:54] El turno con id6 ha sido guardado en la base de datos
+[2022-12-02 18:46:27] [ INFO ] [TurnoServiceImpl:90] El turno con id 6 ha sido eliminado de la base de datos
+[2022-12-02 18:46:35] [ INFO ] [TurnoServiceImpl:80] El turno con id 5 ha sido actualizado en la base de datos
+[2022-12-09 12:20:56] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 1234 se creó de manera exitosa
+[2022-12-09 12:22:05] [ INFO ] [OdontologoServiceImpl:69] El odontologo con matricula: 1234 se ha eliminado de manera exitosa
+[2022-12-09 12:24:21] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 32102058 se creó de manera exitosa
+[2022-12-09 12:24:41] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 1234 se creó de manera exitosa
+[2022-12-09 12:25:29] [ INFO ] [TurnoServiceImpl:54] El turno con id1 ha sido guardado en la base de datos
+[2022-12-09 13:28:45] [ INFO ] [UsuarioController:75] Datos usuario: com.dh.Clinica.login.Usuario@38233cf9
+[2022-12-09 13:28:45] [ INFO ] [UsuarioController:76] Datos permisos: [ADMIN]
+[2022-12-09 13:28:45] [ INFO ] [UsuarioController:77] Esta autenticado: true
+[2022-12-09 13:28:45] [ INFO ] [UsuarioController:78] Credenciales: null
+[2022-12-10 20:00:27] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 1234 se creó de manera exitosa
+[2022-12-10 20:00:46] [ INFO ] [OdontologoServiceImpl:69] El odontologo con matricula: 1234 se ha eliminado de manera exitosa
+[2022-12-10 20:01:21] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 32102058 se creó de manera exitosa
+[2022-12-10 20:01:28] [ INFO ] [OdontologoServiceImpl:59] El paciente con DNI: 32102058 se actualizó de manera exitosa
+[2022-12-10 20:01:43] [ INFO ] [OdontologoServiceImpl:59] El paciente con DNI: 32102058 se actualizó de manera exitosa
+[2022-12-10 20:01:45] [ INFO ] [OdontologoServiceImpl:69] El paciente con DNI: 32102058 se eliminó de manera exitosa
+[2022-12-10 20:03:17] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 32102058 se creó de manera exitosa
+[2022-12-10 20:03:30] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 1234 se creó de manera exitosa
+[2022-12-10 20:04:05] [ INFO ] [TurnoServiceImpl:54] El turno con id1 ha sido guardado en la base de datos
+[2022-12-10 20:04:15] [ INFO ] [TurnoServiceImpl:81] El turno con id 1 ha sido actualizado en la base de datos
+[2022-12-10 20:05:36] [ INFO ] [TurnoServiceImpl:54] El turno con id2 ha sido guardado en la base de datos
+[2022-12-10 20:15:48] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 1234 se creó de manera exitosa
+[2022-12-10 20:16:20] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 32102058 se creó de manera exitosa
+[2022-12-10 20:17:25] [ INFO ] [TurnoServiceImpl:54] El turno con id1 ha sido guardado en la base de datos
+[2022-12-10 20:23:17] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 1234 se creó de manera exitosa
+[2022-12-10 20:24:13] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 32102058 se creó de manera exitosa
+[2022-12-10 20:24:32] [ INFO ] [OdontologoServiceImpl:59] El paciente con DNI: 32102058 se actualizó de manera exitosa
+[2022-12-10 20:26:12] [ INFO ] [TurnoServiceImpl:54] El turno con id1 ha sido guardado en la base de datos
+[2022-12-10 20:31:32] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 1234 se creó de manera exitosa
+[2022-12-10 20:33:32] [ INFO ] [OdontologoServiceImpl:59] El odontologo con matricula: 1234 se ha actualizado de manera exitosa
+[2022-12-10 20:37:34] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 32102058 se creó de manera exitosa
+[2022-12-10 20:38:53] [ INFO ] [TurnoServiceImpl:54] El turno con id1 ha sido guardado en la base de datos
+[2022-12-10 20:46:40] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 1234 se creó de manera exitosa
+[2022-12-10 20:47:09] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 32102058 se creó de manera exitosa
+[2022-12-10 20:47:50] [ INFO ] [TurnoServiceImpl:54] El turno con id1 ha sido guardado en la base de datos
+[2022-12-10 20:48:43] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 23450123 se creó de manera exitosa
+[2022-12-10 20:48:59] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 23450123 se creó de manera exitosa
+[2022-12-10 20:50:03] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 2345 se creó de manera exitosa
+[2022-12-10 20:52:30] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 2345 se creó de manera exitosa
+[2022-12-10 20:55:07] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 2345 se creó de manera exitosa
+[2022-12-10 20:55:07] [ INFO ] [OdontologoServiceImpl:69] El odontologo con matricula: 2345 se ha eliminado de manera exitosa
+[2022-12-10 20:56:04] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 23450123 se creó de manera exitosa
+[2022-12-10 20:56:05] [ INFO ] [OdontologoServiceImpl:69] El paciente con DNI: 23450123 se eliminó de manera exitosa
+[2022-12-10 20:57:51] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 23450123 se creó de manera exitosa
+[2022-12-10 20:57:51] [ INFO ] [OdontologoServiceImpl:69] El paciente con DNI: 23450123 se eliminó de manera exitosa
+[2022-12-10 20:58:17] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 23450123 se creó de manera exitosa
+[2022-12-10 20:58:18] [ INFO ] [OdontologoServiceImpl:69] El paciente con DNI: 23450123 se eliminó de manera exitosa
+[2022-12-10 20:59:01] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 2345 se creó de manera exitosa
+[2022-12-10 20:59:01] [ INFO ] [OdontologoServiceImpl:69] El odontologo con matricula: 2345 se ha eliminado de manera exitosa
+[2022-12-10 21:01:46] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 2345 se creó de manera exitosa
+[2022-12-10 21:04:45] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 2345 se creó de manera exitosa
+[2022-12-10 21:06:03] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 23450123 se creó de manera exitosa
+[2022-12-10 21:06:04] [ INFO ] [OdontologoServiceImpl:69] El paciente con DNI: 23450123 se eliminó de manera exitosa
+[2022-12-10 21:07:10] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 2345 se creó de manera exitosa
+[2022-12-10 21:07:11] [ INFO ] [OdontologoServiceImpl:69] El odontologo con matricula: 2345 se ha eliminado de manera exitosa
+[2022-12-10 21:12:19] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 23450123 se creó de manera exitosa
+[2022-12-10 21:14:06] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 23450123 se creó de manera exitosa
+[2022-12-10 21:15:14] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 23450123 se creó de manera exitosa
+[2022-12-10 21:15:14] [ INFO ] [OdontologoServiceImpl:69] El paciente con DNI: 23450123 se eliminó de manera exitosa
+[2022-12-10 21:15:33] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 23450123 se creó de manera exitosa
+[2022-12-10 21:15:33] [ INFO ] [OdontologoServiceImpl:69] El paciente con DNI: 23450123 se eliminó de manera exitosa
+[2022-12-10 21:15:34] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 23450123 se creó de manera exitosa
+[2022-12-10 21:15:34] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 23450123 se creó de manera exitosa
+[2022-12-10 21:15:34] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 23450123 se creó de manera exitosa
+[2022-12-10 21:16:52] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 23450123 se creó de manera exitosa
+[2022-12-10 21:16:52] [ INFO ] [OdontologoServiceImpl:69] El paciente con DNI: 23450123 se eliminó de manera exitosa
+[2022-12-10 21:16:52] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 23450123 se creó de manera exitosa
+[2022-12-10 21:16:52] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 23450123 se creó de manera exitosa
+[2022-12-10 21:16:52] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 25435678 se creó de manera exitosa
+[2022-12-10 21:18:35] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 25435678 se creó de manera exitosa
+[2022-12-10 21:20:04] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 32102056 se creó de manera exitosa
+[2022-12-10 21:20:24] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 23450123 se creó de manera exitosa
+[2022-12-10 21:20:42] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 25435678 se creó de manera exitosa
+[2022-12-10 21:22:41] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 10948967 se creó de manera exitosa
+[2022-12-10 21:22:41] [ INFO ] [OdontologoServiceImpl:69] El paciente con DNI: 10948967 se eliminó de manera exitosa
+[2022-12-10 21:22:41] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 32102056 se creó de manera exitosa
+[2022-12-10 21:22:42] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 23450123 se creó de manera exitosa
+[2022-12-10 21:22:42] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 25435678 se creó de manera exitosa
+[2022-12-10 21:28:37] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 10948967 se creó de manera exitosa
+[2022-12-10 21:28:37] [ INFO ] [OdontologoServiceImpl:69] El paciente con DNI: 10948967 se eliminó de manera exitosa
+[2022-12-10 21:28:37] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 32102056 se creó de manera exitosa
+[2022-12-10 21:28:37] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 23450123 se creó de manera exitosa
+[2022-12-10 21:28:37] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 25435678 se creó de manera exitosa
+[2022-12-10 21:29:07] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 10948967 se creó de manera exitosa
+[2022-12-10 21:29:07] [ INFO ] [OdontologoServiceImpl:69] El paciente con DNI: 10948967 se eliminó de manera exitosa
+[2022-12-10 21:29:07] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 32102056 se creó de manera exitosa
+[2022-12-10 21:29:08] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 23450123 se creó de manera exitosa
+[2022-12-10 21:29:08] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 25435678 se creó de manera exitosa
+[2022-12-10 21:35:05] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 2345 se creó de manera exitosa
+[2022-12-10 21:35:06] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 3467 se creó de manera exitosa
+[2022-12-10 21:35:06] [ INFO ] [OdontologoServiceImpl:69] El odontologo con matricula: 3467 se ha eliminado de manera exitosa
+[2022-12-10 21:35:06] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 1234 se creó de manera exitosa
+[2022-12-12 11:42:00] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 2345 se creó de manera exitosa
+[2022-12-12 11:42:01] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 3467 se creó de manera exitosa
+[2022-12-12 11:42:01] [ INFO ] [OdontologoServiceImpl:69] El odontologo con matricula: 3467 se ha eliminado de manera exitosa
+[2022-12-12 11:42:01] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 1234 se creó de manera exitosa
+[2022-12-12 11:42:58] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 2345 se creó de manera exitosa
+[2022-12-12 11:42:58] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 3467 se creó de manera exitosa
+[2022-12-12 11:42:58] [ INFO ] [OdontologoServiceImpl:69] El odontologo con matricula: 3467 se ha eliminado de manera exitosa
+[2022-12-12 11:42:58] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 1234 se creó de manera exitosa
+[2022-12-12 14:37:24] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 3212 se creó de manera exitosa
+[2022-12-12 14:41:06] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 3456 se creó de manera exitosa
+[2022-12-12 14:41:06] [ INFO ] [OdontologoServiceImpl:59] El odontologo con matricula: 3456 se ha actualizado de manera exitosa
+[2022-12-12 15:13:40] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 5674 se creó de manera exitosa
+[2022-12-12 15:14:02] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 3456 se creó de manera exitosa
+[2022-12-12 15:14:02] [ INFO ] [OdontologoServiceImpl:59] El odontologo con matricula: 3456 se ha actualizado de manera exitosa
+[2022-12-12 15:14:02] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 3212 se creó de manera exitosa
+[2022-12-12 15:14:02] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 5674 se creó de manera exitosa
+[2022-12-12 15:14:49] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 3456 se creó de manera exitosa
+[2022-12-12 15:14:49] [ INFO ] [OdontologoServiceImpl:59] El odontologo con matricula: 3456 se ha actualizado de manera exitosa
+[2022-12-12 15:14:49] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 3212 se creó de manera exitosa
+[2022-12-12 15:14:49] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 1654 se creó de manera exitosa
+[2022-12-12 15:14:49] [ INFO ] [OdontologoServiceImpl:69] El odontologo con matricula: 1654 se ha eliminado de manera exitosa
+[2022-12-12 15:14:49] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 5674 se creó de manera exitosa
+[2022-12-12 15:15:11] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 3456 se creó de manera exitosa
+[2022-12-12 15:15:11] [ INFO ] [OdontologoServiceImpl:59] El odontologo con matricula: 3456 se ha actualizado de manera exitosa
+[2022-12-12 15:15:11] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 3212 se creó de manera exitosa
+[2022-12-12 15:15:11] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 1654 se creó de manera exitosa
+[2022-12-12 15:15:11] [ INFO ] [OdontologoServiceImpl:69] El odontologo con matricula: 1654 se ha eliminado de manera exitosa
+[2022-12-12 15:15:11] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 5674 se creó de manera exitosa
+[2022-12-12 15:26:31] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 1654 se creó de manera exitosa
+[2022-12-12 15:26:31] [ INFO ] [OdontologoServiceImpl:69] El odontologo con matricula: 1654 se ha eliminado de manera exitosa
+[2022-12-12 18:43:10] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 1654 se creó de manera exitosa
+[2022-12-12 18:43:10] [ INFO ] [OdontologoServiceImpl:69] El odontologo con matricula: 1654 se ha eliminado de manera exitosa
+[2022-12-12 18:45:24] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 1654 se creó de manera exitosa
+[2022-12-12 18:45:24] [ INFO ] [OdontologoServiceImpl:69] El odontologo con matricula: 1654 se ha eliminado de manera exitosa
+[2022-12-12 19:02:43] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 1654 se creó de manera exitosa
+[2022-12-12 19:02:43] [ INFO ] [OdontologoServiceImpl:69] El odontologo con matricula: 1654 se ha eliminado de manera exitosa
+[2022-12-12 19:12:08] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 34560123 se creó de manera exitosa
+[2022-12-12 19:12:08] [ INFO ] [OdontologoServiceImpl:59] El paciente con DNI: 34560123 se actualizó de manera exitosa
+[2022-12-12 19:12:08] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 16540123 se creó de manera exitosa
+[2022-12-12 19:12:08] [ INFO ] [OdontologoServiceImpl:69] El paciente con DNI: 16540123 se eliminó de manera exitosa
+[2022-12-12 19:12:08] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 32120058 se creó de manera exitosa
+[2022-12-12 19:12:08] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 10948967 se creó de manera exitosa
+[2022-12-12 19:13:03] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 34560123 se creó de manera exitosa
+[2022-12-12 19:13:04] [ INFO ] [OdontologoServiceImpl:59] El paciente con DNI: 34560123 se actualizó de manera exitosa
+[2022-12-12 19:13:04] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 16540123 se creó de manera exitosa
+[2022-12-12 19:13:04] [ INFO ] [OdontologoServiceImpl:69] El paciente con DNI: 16540123 se eliminó de manera exitosa
+[2022-12-12 19:13:04] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 32120058 se creó de manera exitosa
+[2022-12-12 19:13:04] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 10948967 se creó de manera exitosa
+[2022-12-12 19:37:55] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 34560123 se creó de manera exitosa
+[2022-12-12 19:37:55] [ INFO ] [OdontologoServiceImpl:59] El paciente con DNI: 34560123 se actualizó de manera exitosa
+[2022-12-12 19:37:55] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 16540123 se creó de manera exitosa
+[2022-12-12 19:37:55] [ INFO ] [OdontologoServiceImpl:69] El paciente con DNI: 16540123 se eliminó de manera exitosa
+[2022-12-12 19:37:55] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 32120058 se creó de manera exitosa
+[2022-12-12 19:37:55] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 10948967 se creó de manera exitosa
+[2022-12-12 19:38:15] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 34560123 se creó de manera exitosa
+[2022-12-12 19:38:16] [ INFO ] [OdontologoServiceImpl:59] El paciente con DNI: 34560123 se actualizó de manera exitosa
+[2022-12-12 19:38:16] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 16540123 se creó de manera exitosa
+[2022-12-12 19:38:16] [ INFO ] [OdontologoServiceImpl:69] El paciente con DNI: 16540123 se eliminó de manera exitosa
+[2022-12-12 19:38:16] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 32120058 se creó de manera exitosa
+[2022-12-12 19:38:16] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 10948967 se creó de manera exitosa
+[2022-12-12 19:39:57] [ INFO ] [OdontologoServiceImpl:34] El odontologo con matricula: 1234 se creó de manera exitosa
+[2022-12-12 19:40:29] [ INFO ] [OdontologoServiceImpl:34] El paciente con DNI: 32102058 se creó de manera exitosa
+[2022-12-12 19:41:12] [ INFO ] [TurnoServiceImpl:54] El turno con id1 ha sido guardado en la base de datos

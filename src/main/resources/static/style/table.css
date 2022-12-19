@@ -1,0 +1,94 @@
+.table {    
+    width: 70%;
+    background-color: white;
+    border-color: grey;
+    margin-top: 60px;
+    box-shadow: 3px 3px 3px 3px rgba(172, 170, 170, 0.404);
+}
+
+.table th, .table td {
+    padding-left: 35px;
+    max-width: 260px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    margin-bottom: 100px;
+}
+
+
+.thead {    
+    background-color: rgb(107, 107, 107);
+    color:white;
+}
+
+.date {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.formulario{ 
+    margin-top: 40px;   
+    background-color: rgb(107, 107, 107);
+    color:white;    
+}
+
+.formularioPacientes{
+    width: 80%;
+    margin-top: 40px;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: rgb(107, 107, 107);
+    color:white;
+}
+
+.form-row{
+    display: flex;
+    flex-direction: row;   
+    align-items: flex-end; 
+}
+
+.fila{
+    padding-left: 25px;
+}
+
+.form-row div{
+    margin-top: 10px;
+}
+
+.form_action--button{
+  display: flex;
+  margin-left: 80px;
+  margin-bottom: 16px;
+}
+
+.form_action--button2{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    margin-left: 180px;
+    margin-bottom: 16px;
+}
+
+
+#selectOd{
+    width: 100%;
+    height: 38px;
+    border-radius: 5px;
+    text-indent: 10px;
+    color:#495057;
+}
+
+.col-md-12{
+   display:flex; 
+   align-items: center;
+   justify-content: flex-end;
+}
+
+#turnosubmit{
+    margin-bottom: 18px;
+}
+
+
+

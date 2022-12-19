@@ -1,0 +1,84 @@
+<head>
+    <title>Clínica Odontológica</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="https://getbootstrap.com/docs/5.2/assets/css/docs.css" rel="stylesheet">   
+    <link href="style/loginUser.css" rel="stylesheet">
+    <link href="style/table.css" rel="stylesheet"> 
+    <link href="style/post-it.css" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=Dancing+Script&display=swap" rel="stylesheet">
+    <link  href="http://fonts.googleapis.com/css?family=Reenie+Beanie:regular" rel="stylesheet" type="text/css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.17.1/moment.min.js"></script>
+    <script src="https://kit.fontawesome.com/3f19147b0a.js" crossorigin="anonymous"></script>
+    
+    <script type="text/javascript" src="/js/turnos-user.js"></script>
+</head>
+
+<body>
+
+    <nav class="navbar">
+        <div class="container-fluid"> 
+            <div class="logo">
+                <img src="../img/logo.png" 
+                alt="Logo" width="90" height="84" class="d-inline-block align-text-top">
+                <p class="cursiva">Smile</p> 
+                <p>Design</p>
+            </div>
+            <div>
+                <a class="logout" href="indexuser.html">Inicio</a>
+                <a class="logout" href="/login">Cerrar Sesión</a>
+            </div>   
+        </div>
+    </nav>
+
+    <main id="cont-user" class="container-login container-table">
+
+        <form class="formularioTurnos formularioPacientes" autocomplete="off">
+            <div class="form-row">
+                <div class="form-group col-md-4">
+                    <label for="inputName">Nombre</label>
+                    <input type="text" class="form-control" id="inputName" placeholder="Nombre">
+                </div>
+                <div class="form-group col-md-4">
+                    <label for="inputApellido">Apellido</label>
+                    <input type="text" class="form-control" id="inputApellido" placeholder="Apellido">
+                </div>
+                <div class="form-group col-md-4">
+                    <label for="inputDni">DNI</label>
+                    <input type="text" class="form-control" id="inputDni" placeholder="DNI">
+                </div>
+                <div class="form-group col-md-4">
+                    <label for="inputFecha">Fecha</label>
+                    <input type="date" class="form-control" id="inputFecha" placeholder="Fecha del turno">
+                </div>
+                <div class="form-group col-md-4">
+                    <label for="inputHora">Hora</label>
+                    <input type="time" class="form-control" id="inputHora" placeholder="Hora del turno">
+                </div>
+                <div class="form-group col-md-4">
+                    <label>Odontologos:</label>
+                    <select class="form-select"  id="selectOd">
+                        <option id="default" selected>Seleccione Odontologo</option>
+                    </select>
+                </div>
+                <div class="form-group col-md-12">
+                    <button type="submit" class="btn btn-primary confirmar">Confirmar</button>
+                </div>
+            </div>
+        </form>
+        
+        <div class="containerPostIt">
+        <ul id="ul"> 
+                 
+        </ul>
+        </div> 
+           
+    </main>
+
+    <footer class="footer">
+        <p>Todos los derechos reservados</p>
+    </footer>
+
+
+</body>        
